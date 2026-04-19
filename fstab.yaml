@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:4502/bin/franklin.delivery/aditiagarwal28/aem-eds-forms-project/main"
+    url: "http://localhost:4502/content/aem-eds-test-site/index.html"
     type: "markup"
     suffix: ".html"

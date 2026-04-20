@@ -1,3 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1X_ZEo-Qe3C5gfKvCz-QyRMZbmBF0kXHh"
+    url: "https://author-p189356-e1976989.adobeaemcloud.com/ui#/aem/sites.html/content/aem-boilerplate"
+    type: "markup"
+    suffix: ".html"

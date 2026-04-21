@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "content/aem-eds-test-site/:/"
+    "content/forms-test-site/:/"
   ],
   "includes": [
-    "content/aem-eds-test-site/"
+    "content/forms-test-site/"
   ]
 }

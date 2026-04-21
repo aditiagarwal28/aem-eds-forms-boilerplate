@@ -1,6 +1,9 @@
 {
   "mappings": [
-    "content/forms-test-site/:/"
+    "content/forms-test-site/:/",
+    "content/forms-test-site/configuration:/.helix/config.json",
+    "content/forms-test-site/metadata:/metadate.json"
+    
   ],
   "includes": [
     "content/forms-test-site/"
